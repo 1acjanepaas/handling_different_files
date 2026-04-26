@@ -1,0 +1,6 @@
+John Doe 1.25
+Jane Smith 1.15
+Alice Johnson 1.35
+Bob Brown 1.45
+Carlos Garcia 1.20
+Maria Santos 1.50
