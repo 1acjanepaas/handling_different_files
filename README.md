@@ -1,3 +1,10 @@
-#File Handling type in Python
+File Handling in Python: Connecting Program to Text Files
 
-This activity focuses on practicing file handling by connecting a program to external text files for reading and writing data. Through this exercise, the program demonstrates how to open files, retrieve and process their contents, and update or store new information as needed. It helps reinforce the concept of persistent data storage, where information is not limited to runtime but can be saved and accessed across multiple executions. By working with text files, the activity builds a better understanding of input/output operations, error handling when dealing with files, and the importance of managing resources properly (such as closing files after use). Overall, it serves as a foundational step in learning how applications interact with external data sources in real-world scenarios.
+This activity demonstrates how a program interacts with external text files to perform basic file handling operations such as reading from and writing to a file. It focuses on understanding how data can be stored outside the program and retrieved when needed, allowing for persistent data management.
+
+#Guide / Steps:
+Open the text file using the appropriate file handling method in your programming language.
+Read the contents of the file and store or display the data as needed.
+Process or modify the data based on the program’s requirements.
+Write updated or new data back to the text file if necessary.
+Properly close the file after all operations are completed to ensure data integrity.
